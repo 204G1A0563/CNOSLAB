@@ -1,0 +1,10 @@
+<pre><font color="#12488B"><b>/204G1A0563/CNOSLAB/OSLAB</b></font>$ ./a.out
+
+Enter the number of processes -- 1
+
+Enter Burst Time for Process 0 -- 2
+	 PROCESS 	BURST TIME 	 WAITING TIME	 TURNAROUND TIME
+
+	 P0 		 2 		 0 		 2
+Average Waiting Time -- 0.000000
+Average Turnaround Time -- 2.000000</pre>
