@@ -1,0 +1,17 @@
+<pre><font color="#12488B"><b>/204G1A0563/CNOSLAB/OSLAB</b></font>$ ./a.out
+Enter the no of processes -- 3
+
+Enter Burst Time for process 1 -- 4
+
+Enter Burst Time for process 2 -- 5
+
+Enter Burst Time for process 3 -- 6
+
+Enter the size of time slice -- 3
+
+The Average Turnaround time is -- 12.333333
+The Average Waiting time is -- 7.333333 
+	PROCESS	 BURST TIME 	 WAITING TIME	TURNAROUND TIME
+	1 	 4 		 6 		 10 
+	2 	 5 		 7 		 12 
+	3 	 6 		 9 		 15 </pre>
