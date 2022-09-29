@@ -1,0 +1,12 @@
+<pre>Enter the number of processes -- 3
+Enter Burst Time for Process 0 -- 6
+Enter Burst Time for Process 1 -- 7
+Enter Burst Time for Process 2 -- 8
+
+	 PROCESS 	BURST TIME 	 WAITING TIME	 TURNAROUND TIME
+
+	 P0 		 6 		 0 		 6
+	 P1 		 7 		 6 		 13
+	 P2 		 8 		 13 		 21
+Average Waiting Time -- 6.333333
+Average Turnaround Time -- 13.333333</pre>
