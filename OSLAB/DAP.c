@@ -5,9 +5,9 @@
    Date of Execution: 08-11-2022
 */
 #include<stdio.h>
-#include<conio.h>
+//#include<conio.h>
 #include<string.h>
-void main()
+int main()
 {
 int alloc[10][10],max[10][10];
 int avail[10],work[10],total[10];
@@ -15,7 +15,7 @@ int i,j,k,n,need[10][10];
 int m;
 int count=0,c=0;
 char finish[10];
-clrscr();
+//clrscr();
 printf("Enter the no. of processes and resources:");
 scanf("%d%d",&n,&m);
 for(i=0;i<=n;i++)
@@ -66,9 +66,9 @@ count++;
 }
 }
 if(count!=n)
-
 goto A;
-else
+else  
 printf("\n System is in safe mode");
 printf("\n The given state is safe state");
-getch();
+return 0;
+}
