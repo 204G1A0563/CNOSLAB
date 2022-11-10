@@ -1,0 +1,7 @@
+<pre>Enter no of jobs: 2
+Enter name and time: joe 2
+Enter name and time: jai 3
+Enter the available resources:4
+joejaiSafe sequence is:joe 2
+jai 3
+
